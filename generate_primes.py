@@ -1,6 +1,6 @@
 """
 student:shani dihorker
-ID:209290121
+
 Assigment no.2
 program:generate_primes
 """
