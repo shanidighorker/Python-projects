@@ -1,5 +1,4 @@
 """ student:shani dihorker
-ID:209290121
 Assigment no.1
 program: stars"""
 """
