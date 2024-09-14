@@ -1,5 +1,4 @@
 """ student:shani dihorker
-ID:209290121
 Assigment no.3
 program: dice"""
 import random
