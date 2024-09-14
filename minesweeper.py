@@ -2,7 +2,7 @@
 """
 Created on Thu Jun  2 10:16:13 2022
 Student:shani dighorker
-Id:209290121
+
 Assignmet no:3
 Program:minesweeper.py
 """
